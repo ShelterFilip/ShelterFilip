@@ -4,9 +4,9 @@
 My name is Shelter, I'm a Software Engineer from Brazil and I love doing sports.
 
 
-- <a href="https://www.linkedin.com/in/shelter-filipe-9819b624a/">LinkedIn</a>
-- <a href="shelterfelipe6@gmail.com">Email</a>
-- <a href="https://www.instagram.com/shelterfilipee/">Instagram</a>
+- 🔗 <a href="https://www.linkedin.com/in/shelter-filipe-9819b624a/"> LinkedIn</a>
+- 📧 <a href="shelterfelipe6@gmail.com"> Email</a>
+- 🧩<a href="https://www.instagram.com/shelterfilipee/"> Instagram</a>
 
 _____
 
